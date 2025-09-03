@@ -1,0 +1,22 @@
+# Core API & Environment
+fastapi
+uvicorn
+python-dotenv
+# PDF processing
+pypdf2
+pdfplumber
+# Google Gemini API
+google-generativeai
+
+# Vector search
+faiss-cpu
+
+langchain
+# Utilities
+requests
+
+#OthErs
+google-adk[database]==0.3.0
+yfinance==0.2.56
+psutil===5.9.4
+litellm==1.66.3
